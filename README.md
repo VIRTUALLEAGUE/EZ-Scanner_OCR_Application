@@ -2,12 +2,14 @@
 [![Video Label](https://user-images.githubusercontent.com/48519031/156896855-7e0004b9-b0de-415c-9f7d-6952cccb4d63.png)](https://www.youtube.com/watch?v=XiosxnspzgY)
 
 ## Description
--
--
+- 판서 내용 내 문자를 인식하고 이외의 것들은 그림으로 분류 및 PDF 자동 문서화 애플리케이션
+- 팀원 총 3명, 안드로이드 / 통신, 객체 검출 및 노이즈 제거 / 객체 검출, 문자 인식, 매크로(본인)
 
 ## Environment
--
--
+- Windows OS의 Pycharm 사용
+- Android Client -> Local Server -> Image Denoising(OpenCV) -> Object Detection(OpenCV) -> Text OCR(Tesseract) -> Documentation(PyautoGUI)
+- Python / OpenCV / Tesseract / PyautoGUI (My Part)
+- Android / TCP-IP / OpenCV
 
 ## Prerequisite
 
